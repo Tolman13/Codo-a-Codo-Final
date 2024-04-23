@@ -1,0 +1,43 @@
+body
+{
+    background-color:white;
+    
+}
+h1
+{
+    color:rgb(5, 5, 59);
+    font-size:100px;
+}
+h1
+{
+    color: white;
+    font-size: 60px;
+
+}
+.column {
+    background-color:rgb(6, 6, 167); 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    border-radius: 10px;
+    margin-left: 220px;  
+    transition: filter 0.3s ease;
+    width: 800px;
+    
+}
+
+    
+.column:hover {
+        filter: brightness(70%);
+    }
+    
+footer
+{   position: fixed; 
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    background-color: #202529; 
+    color: #fff; 
+    padding: 10px; 
+    box-sizing: border-box;
+}
