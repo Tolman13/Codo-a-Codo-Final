@@ -16,10 +16,7 @@ h2
     justify-items: center;
     text-align: center;
 }
-nav
-{
-    height: 80px;
-}
+
 footer
 {   
     bottom: 0;
@@ -30,7 +27,6 @@ footer
     color: white !important;;
     padding: 10px; 
     box-sizing: border-box;
-    position:fixed;
     align-items: center;
 }
 ul {
